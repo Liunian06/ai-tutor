@@ -104,3 +104,15 @@ docs/four_track_learning_method.md
 - 固化四轨学习法文档；
 - 建立 Claude Code Skill；
 - 让学习流程能够用于课程、考试和工程应用迁移。
+
+## 许可证
+
+本项目采用 MIT License，详见：
+
+```text
+LICENSE
+```
+
+## 致谢
+
+本项目的 skill 设计思路受到 [Hytidel/auto-tutor](https://github.com/Hytidel/auto-tutor) 启发。
